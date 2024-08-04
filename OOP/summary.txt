@@ -1,0 +1,4 @@
+Object Oriented Programming and Classes.(oop1):
+1. We defined Kettle class
+2. We created objects and changes the values 
+    variables of the classes.
