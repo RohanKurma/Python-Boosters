@@ -2,3 +2,10 @@ Object Oriented Programming and Classes.(oop1):
 1. We defined Kettle class
 2. We created objects and changes the values 
     variables of the classes.
+
+
+Instructors, Constructors, Self and more:
+1. We created a swith_on() method in the Kettle class.
+2. Explained two different methods to access the method. 
+3. Created a Instance variable for kenwood but not for hamilton.
+
