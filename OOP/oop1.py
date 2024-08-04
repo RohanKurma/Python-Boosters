@@ -14,3 +14,4 @@ kenwood.price = 12.75
 print(kenwood.price)
 
 hamilton = Kettle("Hamilton", 14.55)
+

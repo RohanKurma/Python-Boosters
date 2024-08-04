@@ -9,10 +9,13 @@ Instructors, Constructors, Self and more:
 2. Explained two different methods to access the method. 
 3. Created a Instance variable for kenwood but not for hamilton.
 
-Class Attributes:
+Class Attributes:(oop_3)
 1.We created a class variable 'power_source=electricity'
 2.Accessed the class variable using the kenwood and hamilton instances.
 3.Changed the value of power_source to atomic 
 4.Tried to change the power_source class variable to gas with
     kenwood but unfortunately created a new instance variable power_source
 
+Methods Part-1:(Accounts.py)
+1. Encapsulation.
+2. Created a Accounts class, add deposit, withdraw and balance functionalities.
