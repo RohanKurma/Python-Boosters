@@ -19,3 +19,10 @@ Class Attributes:(oop_3)
 Methods Part-1:(Accounts.py)
 1. Encapsulation.
 2. Created a Accounts class, add deposit, withdraw and balance functionalities.
+
+Methods Part-2:(Accounts.py)
+1. Created a new instance variable show_transaction_list and a
+    method show_transaction.
+2. Created a new static method _current_time() to load the date and time 
+over deposit and withdrawal methods as arguemt to pass to show_transaction
+method.
