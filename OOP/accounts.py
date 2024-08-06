@@ -1,6 +1,7 @@
 import datetime
 import pytz
 
+
 class Accounts:
     """Simple Account class with balance"""
     @staticmethod
@@ -12,6 +13,7 @@ class Accounts:
         self.name = name
         self.balance = balance
         self.transaction_list = []
+        self.deposit(balance)
         print("Account Created for "+self.name)
 
     def deposit(self, amount):
@@ -53,4 +55,12 @@ if __name__ == '__main__':
     tim.withdraw(2000)
 
     tim.show_transactions()
+
+
+    steph = Accounts('Steph',800)
+    steph.deposit(100)
+    steph.withdraw(200)
+    steph.show_transactions()
+    steph.show_balance()
+    print(steph.__dict__)
 
