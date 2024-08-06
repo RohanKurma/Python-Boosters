@@ -26,3 +26,11 @@ Methods Part-2:(Accounts.py)
 2. Created a new static method _current_time() to load the date and time 
 over deposit and withdrawal methods as arguemt to pass to show_transaction
 method.
+
+
+Non Public and Mangling:
+
+
+DocStrings and Raw Literals:(songs.py)
+1. We created a class for songs and documented the arguemt of the class.
+2. In demo.py we explained the raw literals. 
